@@ -1,0 +1,137 @@
+.header_container--logo {
+    font-family: Raleway;
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 30.52px;
+    letter-spacing: 0.03em;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;  
+}
+
+.color{
+   color: #2196f3; 
+}
+
+.header_container--nav a {
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 16.41px;
+    letter-spacing: 0.02em;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    text-decoration: none;
+    color: #212121;
+}
+
+.header_container--nav a:hover {
+    color: #2196F3;
+}
+
+.header_content a {
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 16.41px;
+    letter-spacing: 0.02em;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    text-decoration: none;
+    color: #757575;
+}
+
+.header_content a:hover {
+    color: #2196F3;
+}
+.flex{ 
+    background-color: #2F303A; 
+} 
+ 
+ 
+.flex_button{ 
+width: 216px; 
+height: 50px; 
+top: 430px; 
+left: 692px; 
+gap: 0px; 
+border-radius: 4px 0px 0px 0px; 
+opacity: 0px; 
+color: #FFFFFF; 
+} 
+ 
+.flex{ 
+ width: 216px; 
+height: 50px; 
+top: 430px; 
+left: 692px; 
+gap: 0px; 
+border-radius: 4px 0px 0px 0px; 
+opacity: 0px; 
+ 
+} 
+ 
+.flex_title{ 
+    font-family: Roboto; 
+    font-size: 44px; 
+    font-weight: 900; 
+    line-height: 60px; 
+    letter-spacing: 0.06em; 
+    text-align: center; 
+    text-underline-position: from-font; 
+    text-decoration-skip-ink: none; 
+    color: #FFFFFF; 
+    text-transform: uppercase; 
+} 
+ 
+.team { 
+    background-color: #F5F4FA; 
+} 
+ 
+.team_title{ 
+font-family: Roboto; 
+font-size: 16px; 
+font-weight: 500; 
+line-height: 18.75px; 
+letter-spacing: 0.03em; 
+text-align: center; 
+text-underline-position: from-font; 
+text-decoration-skip-ink: none; 
+} 
+ 
+.team_container--content{ 
+    max-width: 270px; 
+    margin: 0 auto; 
+    background-color: #fff; 
+} 
+ 
+.team_container--content h3 { 
+font-family: Roboto; 
+font-size: 16px; 
+font-weight: 500; 
+line-height: 18.75px; 
+letter-spacing: 0.03em; 
+text-align: center; 
+text-underline-position: from-font; 
+text-decoration-skip-ink: none; 
+color: #212121; 
+} 
+ 
+.team_container--content p { 
+font-family: Roboto; 
+font-size: 16px; 
+font-weight: 500; 
+line-height: 18.75px; 
+letter-spacing: 0.03em; 
+text-align: center; 
+text-underline-position: from-font; 
+text-decoration-skip-ink: none; 
+color: #757575; 
+} 
+ 
+.team_container--content img { 
+width: 270px; 
+height: 268px; 
+}
